@@ -1,0 +1,13 @@
+{
+    "name": "test/testgit",
+    "description": "Just testing something http://example.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "madamimat",
+            "email": "tamimadam@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
