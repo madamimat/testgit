@@ -1,6 +1,7 @@
 {
     "name": "test/testgit",
     "description": "Just testing something http://example.com",
+    "homepage" : "http://example.com",
     "license": "MIT",
     "authors": [
         {
